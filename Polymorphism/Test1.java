@@ -57,6 +57,7 @@ class Monkey extends Animal{
 }
 
 class Forest{
+	//MethodOverriding :: LooseCoupling
 	public void allowAnimal(Animal a){
 		a.eat();
 		a.sleep();
