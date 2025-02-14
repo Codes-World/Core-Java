@@ -1,6 +1,6 @@
 public class DeleteAllConsonants{
 	public static void main(String[] args){
-		String str1 = "Hello, have a good day";
+		String str1 = "Hello, have a good day!";
 		char[] c = new char[25];
 		int j = 0;
 		for(int i = 0; i < str1.length(); i++){
